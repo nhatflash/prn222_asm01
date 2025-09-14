@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA522DC3-4832-4B06-9F65-D90F8C5E22A0}|CarSM.Services.VienTLN\\CarSM.Services.VienTLN.csproj|d:\\fpt\\prn222\\fa25_prn222_se1834_asm01_se184359_vientln\\carsm.services.vientln\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA522DC3-4832-4B06-9F65-D90F8C5E22A0}|CarSM.Services.VienTLN\\CarSM.Services.VienTLN.csproj|solutionrelative:carsm.services.vientln\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4630CC-9982-455F-8D3C-59CE37D29428}|CarSM.Repositories.VienTLN\\CarSM.Repositories.VienTLN.csproj|d:\\fpt\\prn222\\fa25_prn222_se1834_asm01_se184359_vientln\\carsm.repositories.vientln\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4630CC-9982-455F-8D3C-59CE37D29428}|CarSM.Repositories.VienTLN\\CarSM.Repositories.VienTLN.csproj|solutionrelative:carsm.repositories.vientln\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\Class1.cs",
+              "RelativeDocumentMoniker": "CarSM.Services.VienTLN\\Class1.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\Class1.cs",
+              "RelativeToolTip": "CarSM.Services.VienTLN\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:18:11.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Repositories.VienTLN\\Class1.cs",
+              "RelativeDocumentMoniker": "CarSM.Repositories.VienTLN\\Class1.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Repositories.VienTLN\\Class1.cs",
+              "RelativeToolTip": "CarSM.Repositories.VienTLN\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:17:51.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
