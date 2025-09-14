@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rzBm2QQbbl4=",
+  "dgSpecHash": "cDYjCQhqHwc=",
   "success": true,
-  "projectFilePath": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Repositories.VienTLN\\CarSM.Repositories.VienTLN.csproj",
+  "projectFilePath": "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Repositories.VienTLN\\CarSM.Repositories.VienTLN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

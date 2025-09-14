@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.RazorWebApp.VienTLN\\CarSM.RazorWebApp.VienTLN.csproj": {}
+    "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.RazorWebApp.VienTLN\\CarSM.RazorWebApp.VienTLN.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.RazorWebApp.VienTLN\\CarSM.RazorWebApp.VienTLN.csproj": {
+    "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.RazorWebApp.VienTLN\\CarSM.RazorWebApp.VienTLN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.RazorWebApp.VienTLN\\CarSM.RazorWebApp.VienTLN.csproj",
+        "projectUniqueName": "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.RazorWebApp.VienTLN\\CarSM.RazorWebApp.VienTLN.csproj",
         "projectName": "CarSM.RazorWebApp.VienTLN",
-        "projectPath": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.RazorWebApp.VienTLN\\CarSM.RazorWebApp.VienTLN.csproj",
+        "projectPath": "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.RazorWebApp.VienTLN\\CarSM.RazorWebApp.VienTLN.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.RazorWebApp.VienTLN\\obj\\",
+        "outputPath": "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.RazorWebApp.VienTLN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2720,11 +2720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Repositories.VienTLN\\CarSM.Repositories.VienTLN.csproj",
+      "projectUniqueName": "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Repositories.VienTLN\\CarSM.Repositories.VienTLN.csproj",
       "projectName": "CarSM.Repositories.VienTLN",
-      "projectPath": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Repositories.VienTLN\\CarSM.Repositories.VienTLN.csproj",
+      "projectPath": "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Repositories.VienTLN\\CarSM.Repositories.VienTLN.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT\\PRN222\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Repositories.VienTLN\\obj\\",
+      "outputPath": "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Repositories.VienTLN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
