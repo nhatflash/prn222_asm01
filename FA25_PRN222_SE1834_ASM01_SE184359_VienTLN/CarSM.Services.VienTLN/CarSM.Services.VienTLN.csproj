@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CarSM.Repositories.VienTLN\CarSM.Repositories.VienTLN.csproj" />
+  </ItemGroup>
+
 </Project>

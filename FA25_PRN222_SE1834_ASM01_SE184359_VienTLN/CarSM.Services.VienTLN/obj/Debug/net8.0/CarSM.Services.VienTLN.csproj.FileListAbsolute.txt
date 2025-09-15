@@ -1,0 +1,16 @@
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\bin\Debug\net8.0\CarSM.Services.VienTLN.deps.json
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\bin\Debug\net8.0\CarSM.Services.VienTLN.dll
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\bin\Debug\net8.0\CarSM.Services.VienTLN.pdb
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\bin\Debug\net8.0\CarSM.Repositories.VienTLN.dll
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\bin\Debug\net8.0\CarSM.Repositories.VienTLN.pdb
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\CarSM.Services.VienTLN.csproj.AssemblyReference.cache
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\CarSM.Services.VienTLN.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\CarSM.Services.VienTLN.AssemblyInfoInputs.cache
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\CarSM.Services.VienTLN.AssemblyInfo.cs
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\CarSM.Services.VienTLN.csproj.CoreCompileInputs.cache
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\CarSM.Services.VienTLN.sourcelink.json
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\CarSM.Se.01CB61C9.Up2Date
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\CarSM.Services.VienTLN.dll
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\refint\CarSM.Services.VienTLN.dll
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\CarSM.Services.VienTLN.pdb
+D:\FPTU\FPTU_Sem7\PRN222\prn222_asm01\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\CarSM.Services.VienTLN\obj\Debug\net8.0\ref\CarSM.Services.VienTLN.dll

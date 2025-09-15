@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarSM.Repositories.VienTLN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2506ba464115c40b29acc4756510909e48c09c15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eda5ee5777479aef6b7c2e84ba6cabfa6d8e391c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarSM.Repositories.VienTLN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarSM.Repositories.VienTLN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
