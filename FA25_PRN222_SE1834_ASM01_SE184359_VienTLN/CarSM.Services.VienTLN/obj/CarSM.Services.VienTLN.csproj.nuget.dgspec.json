@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\CarSM.Services.VienTLN.csproj": {}
+    "D:\\FPTU\\FPTU_Sem7\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\CarSM.Services.VienTLN.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\CarSM.Services.VienTLN.csproj": {
+    "D:\\FPTU\\FPTU_Sem7\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\CarSM.Services.VienTLN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\CarSM.Services.VienTLN.csproj",
+        "projectUniqueName": "D:\\FPTU\\FPTU_Sem7\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\CarSM.Services.VienTLN.csproj",
         "projectName": "CarSM.Services.VienTLN",
-        "projectPath": "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\CarSM.Services.VienTLN.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\obj\\",
+        "projectPath": "D:\\FPTU\\FPTU_Sem7\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\CarSM.Services.VienTLN.csproj",
+        "packagesPath": "C:\\Users\\nhatvien\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTU\\FPTU_Sem7\\PRN222\\prn222_asm01\\FA25_PRN222_SE1834_ASM01_SE184359_VienTLN\\CarSM.Services.VienTLN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nhatvien\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

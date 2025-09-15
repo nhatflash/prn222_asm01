@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarSM.Services.VienTLN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb35927f1302d9b955c563460f7a3c7d6ae5dc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2506ba464115c40b29acc4756510909e48c09c15")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarSM.Services.VienTLN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarSM.Services.VienTLN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
