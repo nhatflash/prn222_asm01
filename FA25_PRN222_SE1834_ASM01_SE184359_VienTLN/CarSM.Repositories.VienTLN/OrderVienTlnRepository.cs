@@ -21,7 +21,7 @@ namespace CarSM.Repositories.VienTLN
             return await _context.OrderVienTlns.Include(x => x.PaymentVienTlns).ToListAsync();
         }
 
-        public async Task<OrderVienTln> GetByOrderIdAsync(int id)
+        public async Task<OrderVienTln> GetByOrderIdAsync(long id)
         {
             return await _context.OrderVienTlns.Include(x => x.PaymentVienTlns).FirstOrDefaultAsync(x => x.OrderVienTlnid == id);
         }

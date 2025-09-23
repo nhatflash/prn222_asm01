@@ -1,0 +1,128 @@
+﻿@page
+@model CarSM.RazorWebApps.VienTLN.Pages.Orders.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].DealerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].CustomerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].VehicleId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].QuoteId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].SalesContractId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].OrderType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].DeliveryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].TotalAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].DiscountPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].UpdatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].IsRefunded)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderVienTln[0].PaymentVienTlns.FirstOrDefault().PaymentMethod)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.OrderVienTln.Count != 0) {
+@foreach (var item in Model.OrderVienTln) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DealerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VehicleId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuoteId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SalesContractId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeliveryDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsRefunded)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentVienTlns.FirstOrDefault().PaymentMethod)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.OrderVienTlnid">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.OrderVienTlnid">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.OrderVienTlnid">Delete</a>
+            </td>
+        </tr>
+}
+}
+    </tbody>
+</table>

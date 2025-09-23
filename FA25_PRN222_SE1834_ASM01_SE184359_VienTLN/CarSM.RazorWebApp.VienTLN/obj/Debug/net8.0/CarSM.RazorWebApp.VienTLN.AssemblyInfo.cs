@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarSM.RazorWebApp.VienTLN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eda5ee5777479aef6b7c2e84ba6cabfa6d8e391c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecb7ac5eca40b6138ee270cf47e0bf1b09511e74")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarSM.RazorWebApp.VienTLN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarSM.RazorWebApp.VienTLN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
